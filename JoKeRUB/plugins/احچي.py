@@ -1,5 +1,5 @@
 """
-JoKeRUB team ©
+JoKeRUB team ©.
 By Reda
 sub Hussein
 """
